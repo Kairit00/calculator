@@ -1,0 +1,2 @@
+Resultat: 2
+Resultat: 1 + 1 = 2

@@ -1,0 +1,29 @@
+C:\Users\tyral\source\repos\Projektuppgift B\Projektuppgift B\obj\Debug\net7.0\GIK299_Grupp3_Projekt.csproj.AssemblyReference.cache
+C:\Users\tyral\source\repos\Projektuppgift B\Projektuppgift B\obj\Debug\net7.0\GIK299_Grupp3_Projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tyral\source\repos\Projektuppgift B\Projektuppgift B\obj\Debug\net7.0\GIK299_Grupp3_Projekt.AssemblyInfoInputs.cache
+C:\Users\tyral\source\repos\Projektuppgift B\Projektuppgift B\obj\Debug\net7.0\GIK299_Grupp3_Projekt.AssemblyInfo.cs
+C:\Users\tyral\source\repos\Projektuppgift B\Projektuppgift B\obj\Debug\net7.0\GIK299_Grupp3_Projekt.csproj.CoreCompileInputs.cache
+C:\Users\tyral\source\repos\Projektuppgift B\Projektuppgift B\bin\Debug\net7.0\GIK299_Grupp3_Projekt.exe
+C:\Users\tyral\source\repos\Projektuppgift B\Projektuppgift B\bin\Debug\net7.0\GIK299_Grupp3_Projekt.deps.json
+C:\Users\tyral\source\repos\Projektuppgift B\Projektuppgift B\bin\Debug\net7.0\GIK299_Grupp3_Projekt.runtimeconfig.json
+C:\Users\tyral\source\repos\Projektuppgift B\Projektuppgift B\bin\Debug\net7.0\GIK299_Grupp3_Projekt.dll
+C:\Users\tyral\source\repos\Projektuppgift B\Projektuppgift B\bin\Debug\net7.0\GIK299_Grupp3_Projekt.pdb
+C:\Users\tyral\source\repos\Projektuppgift B\Projektuppgift B\obj\Debug\net7.0\GIK299_Grupp3_Projekt.dll
+C:\Users\tyral\source\repos\Projektuppgift B\Projektuppgift B\obj\Debug\net7.0\refint\GIK299_Grupp3_Projekt.dll
+C:\Users\tyral\source\repos\Projektuppgift B\Projektuppgift B\obj\Debug\net7.0\GIK299_Grupp3_Projekt.pdb
+C:\Users\tyral\source\repos\Projektuppgift B\Projektuppgift B\obj\Debug\net7.0\GIK299_Grupp3_Projekt.genruntimeconfig.cache
+C:\Users\tyral\source\repos\Projektuppgift B\Projektuppgift B\obj\Debug\net7.0\ref\GIK299_Grupp3_Projekt.dll
+E:\skolprojekt\År 1\Objektorienterad programmering GIK299\GIK299_Grupp3_Projekt\Projektuppgift B\Projektuppgift B\bin\Debug\net7.0\GIK299_Grupp3_Projekt.exe
+E:\skolprojekt\År 1\Objektorienterad programmering GIK299\GIK299_Grupp3_Projekt\Projektuppgift B\Projektuppgift B\bin\Debug\net7.0\GIK299_Grupp3_Projekt.deps.json
+E:\skolprojekt\År 1\Objektorienterad programmering GIK299\GIK299_Grupp3_Projekt\Projektuppgift B\Projektuppgift B\bin\Debug\net7.0\GIK299_Grupp3_Projekt.runtimeconfig.json
+E:\skolprojekt\År 1\Objektorienterad programmering GIK299\GIK299_Grupp3_Projekt\Projektuppgift B\Projektuppgift B\bin\Debug\net7.0\GIK299_Grupp3_Projekt.dll
+E:\skolprojekt\År 1\Objektorienterad programmering GIK299\GIK299_Grupp3_Projekt\Projektuppgift B\Projektuppgift B\bin\Debug\net7.0\GIK299_Grupp3_Projekt.pdb
+E:\skolprojekt\År 1\Objektorienterad programmering GIK299\GIK299_Grupp3_Projekt\Projektuppgift B\Projektuppgift B\obj\Debug\net7.0\GIK299_Grupp3_Projekt.GeneratedMSBuildEditorConfig.editorconfig
+E:\skolprojekt\År 1\Objektorienterad programmering GIK299\GIK299_Grupp3_Projekt\Projektuppgift B\Projektuppgift B\obj\Debug\net7.0\GIK299_Grupp3_Projekt.AssemblyInfoInputs.cache
+E:\skolprojekt\År 1\Objektorienterad programmering GIK299\GIK299_Grupp3_Projekt\Projektuppgift B\Projektuppgift B\obj\Debug\net7.0\GIK299_Grupp3_Projekt.AssemblyInfo.cs
+E:\skolprojekt\År 1\Objektorienterad programmering GIK299\GIK299_Grupp3_Projekt\Projektuppgift B\Projektuppgift B\obj\Debug\net7.0\GIK299_Grupp3_Projekt.csproj.CoreCompileInputs.cache
+E:\skolprojekt\År 1\Objektorienterad programmering GIK299\GIK299_Grupp3_Projekt\Projektuppgift B\Projektuppgift B\obj\Debug\net7.0\GIK299_Grupp3_Projekt.dll
+E:\skolprojekt\År 1\Objektorienterad programmering GIK299\GIK299_Grupp3_Projekt\Projektuppgift B\Projektuppgift B\obj\Debug\net7.0\refint\GIK299_Grupp3_Projekt.dll
+E:\skolprojekt\År 1\Objektorienterad programmering GIK299\GIK299_Grupp3_Projekt\Projektuppgift B\Projektuppgift B\obj\Debug\net7.0\GIK299_Grupp3_Projekt.pdb
+E:\skolprojekt\År 1\Objektorienterad programmering GIK299\GIK299_Grupp3_Projekt\Projektuppgift B\Projektuppgift B\obj\Debug\net7.0\GIK299_Grupp3_Projekt.genruntimeconfig.cache
+E:\skolprojekt\År 1\Objektorienterad programmering GIK299\GIK299_Grupp3_Projekt\Projektuppgift B\Projektuppgift B\obj\Debug\net7.0\ref\GIK299_Grupp3_Projekt.dll

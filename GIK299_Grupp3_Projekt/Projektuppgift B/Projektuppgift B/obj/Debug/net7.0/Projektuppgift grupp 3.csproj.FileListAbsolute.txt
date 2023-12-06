@@ -1,0 +1,15 @@
+C:\Users\tyral\source\repos\Projektuppgift B\Projektuppgift B\bin\Debug\net7.0\Projektuppgift grupp 3.exe
+C:\Users\tyral\source\repos\Projektuppgift B\Projektuppgift B\bin\Debug\net7.0\Projektuppgift grupp 3.deps.json
+C:\Users\tyral\source\repos\Projektuppgift B\Projektuppgift B\bin\Debug\net7.0\Projektuppgift grupp 3.runtimeconfig.json
+C:\Users\tyral\source\repos\Projektuppgift B\Projektuppgift B\bin\Debug\net7.0\Projektuppgift grupp 3.dll
+C:\Users\tyral\source\repos\Projektuppgift B\Projektuppgift B\bin\Debug\net7.0\Projektuppgift grupp 3.pdb
+C:\Users\tyral\source\repos\Projektuppgift B\Projektuppgift B\obj\Debug\net7.0\Projektuppgift grupp 3.csproj.AssemblyReference.cache
+C:\Users\tyral\source\repos\Projektuppgift B\Projektuppgift B\obj\Debug\net7.0\Projektuppgift grupp 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tyral\source\repos\Projektuppgift B\Projektuppgift B\obj\Debug\net7.0\Projektuppgift grupp 3.AssemblyInfoInputs.cache
+C:\Users\tyral\source\repos\Projektuppgift B\Projektuppgift B\obj\Debug\net7.0\Projektuppgift grupp 3.AssemblyInfo.cs
+C:\Users\tyral\source\repos\Projektuppgift B\Projektuppgift B\obj\Debug\net7.0\Projektuppgift grupp 3.csproj.CoreCompileInputs.cache
+C:\Users\tyral\source\repos\Projektuppgift B\Projektuppgift B\obj\Debug\net7.0\Projektuppgift grupp 3.dll
+C:\Users\tyral\source\repos\Projektuppgift B\Projektuppgift B\obj\Debug\net7.0\refint\Projektuppgift grupp 3.dll
+C:\Users\tyral\source\repos\Projektuppgift B\Projektuppgift B\obj\Debug\net7.0\Projektuppgift grupp 3.pdb
+C:\Users\tyral\source\repos\Projektuppgift B\Projektuppgift B\obj\Debug\net7.0\Projektuppgift grupp 3.genruntimeconfig.cache
+C:\Users\tyral\source\repos\Projektuppgift B\Projektuppgift B\obj\Debug\net7.0\ref\Projektuppgift grupp 3.dll

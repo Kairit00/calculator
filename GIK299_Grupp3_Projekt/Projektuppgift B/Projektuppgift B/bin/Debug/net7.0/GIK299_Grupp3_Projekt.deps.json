@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "GIK299_Grupp3_Projekt/1.0.0": {
+        "runtime": {
+          "GIK299_Grupp3_Projekt.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GIK299_Grupp3_Projekt/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
